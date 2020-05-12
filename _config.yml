@@ -1,0 +1,9 @@
+baseurl: ''
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  ignore:
+    envs: [local]
+  blanklines: false
+  # startings: [html, head, body]
